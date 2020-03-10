@@ -1,1 +1,1 @@
-# Regression Algorithms using Boston Housing Dataset
+# Machine Learning Algorithms - Simple Solutions
